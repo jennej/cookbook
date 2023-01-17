@@ -1,11 +1,11 @@
 # Sourdough
 ### Overall Formula
-|Ingredient | Bakers % | grams|
+|Ingredient | Bakers % | grams |
 | --------- | -------- | ----- |
-| Flour, WW | 50%      | 500g |
-| Flour, AP | 50%      | 500g |
- Water     | 75%      | 750g 
- Salt      |  2%      | 20g  
+| Flour, WW | 50%      | 500g  |
+| Flour, AP | 50%      | 500g  |
+| Water     | 75%      | 750g  |
+| Salt      |  2%      | 20g   |
 
 ## Sponge
 Ingredient | Bakers % | grams
